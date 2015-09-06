@@ -1,0 +1,28 @@
+@charset "utf-8";
+body {
+	margin: 0;
+}
+.wrap {
+	width: 500px;
+	background: #F0FFF0;
+	margin: 0 auto;
+}
+.panel {
+	width: 500px;
+	overflow: visible;
+	font-size: 20px;
+	min-height: 15px;
+	padding-top: 60px;
+}
+button {
+	border: 1px solid #7100FF;
+	background-color: #5218B7;
+	color: #FFFFFF;
+	line-height: 40px;
+	padding: 0 10px;
+	margin-left: 10px;
+	border-radius: 15px;
+}
+.button {
+	position: fixed;
+}
